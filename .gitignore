@@ -1,0 +1,11 @@
+# Obsidian 工作区缓存（每个设备不同，不要同步）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 系统垃圾文件
+.trash/
+.DS_Store
+Thumbs.db
+
+# 如果你用了第三方插件，有些插件的缓存也可以忽略（按需添加）
+# .obsidian/plugins/obsidian-git/  # 如果用了 Obsidian Git 插件，其自身配置可忽略
