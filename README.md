@@ -25,7 +25,6 @@ This project is primarily maintained using **Obsidian**.
 
 - All `.md` files are compatible with Obsidian's bidirectional linking syntax (`[[wiki link]]`)
 - It is recommended to open this repository in Obsidian for the full reading and editing experience
-- If you use other editors, the plain Markdown content remains readable, but some internal links may not resolve automatically
 
 ### Recommended Workflow
 
@@ -37,39 +36,25 @@ This project uses a **Obsidian + GitHub + TRAE Work** hybrid workflow:
 | GitHub | Version control and public hosting |
 | TRAE Work | AI-assisted creation and project sync |
 
-If you'd like to use AI-assisted creation, you can import this repository into TRAE Work — the AI can read all `.md` files and participate in worldbuilding.
-
 
 ## 🔒 Document Status
 
-| Directory/File | Status |
+| Directory | Status |
 | :--- | :--- |
-| `公理体系/` (Axiomatic System) | 🔒 Read-only (core system, no modifications accepted) |
-| `分身/情感投射/` (Emotional Avatars) | 🔒 Read-only (finalized avatar documents) |
-| `分身/分身总表.md` (Master Avatar List) | 🔒 Read-only |
-| `分身/涂鸦/` (Doodle Avatars) | 📝 Open for discussion (expansion suggestions welcome) |
-| `分身/概念/` (Concept Avatars) | 📝 Open for discussion (expansion suggestions welcome) |
-| `附录/` (Appendices) | 📝 Open for discussion |
-| `en/` (English translations) | ✏️ Open for contribution |
+| `docs/Axiomatic_System/` | Core system, no breaking changes accepted |
+| `docs/Avatars/` | Finalized avatars, no breaking changes accepted |
+| `docs/Appendices/` | Open for discussion |
+| `en/` | Open for translation contributions |
 
 
 ## 👥 Contributing
 
-### Welcome Contributions
-- Improvements or additions to English translations
-- Typo/grammar/punctuation corrections
-- Questions and discussions about the setting (via Issues)
-- Derivative works based on this world (must comply with the license)
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-### Not Accepting Modifications
-- Any core definitions in the Axiomatic System
-- Finalized avatar settings (family role, personality, appearance, etc.)
-- Foundational framework of the world (Cosmos/Spacetime/Dimension definitions)
-
-### Workflow
-1. For major changes, open an **Issue** first for discussion
-2. Translation contributions can be submitted directly as **Pull Requests**
-3. Feedback and questions via **Issues**
+Three core principles:
+1. **Don't break existing setting**
+2. **Don't mislead others**
+3. **Follow the license (CC BY-NC-SA 4.0)**
 
 
 ## 📜 License
@@ -86,9 +71,4 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-Sha
 See [LICENSE](./LICENSE) for the full license text.
 
 
-## 📬 Contact
-
-For questions or collaboration inquiries, please reach out via GitHub Issues.
-
-
-*The Axiomatic System of the Chaotic Cosmos · Version v3.0 · Continuously Evolving*
+*The Axiomatic System of the Chaotic Cosmos · Continuously Evolving*
