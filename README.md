@@ -19,6 +19,27 @@ The Axiomatic System of the Chaotic Cosmos is a systematic worldbuilding project
 - **Avatars**: Manifestations of Chaos's emotional projections, doodles, and conceptual experiments (32 in total)
 
 
+## 🧰 Maintenance Notes
+
+This project is primarily maintained using **Obsidian**.
+
+- All `.md` files are compatible with Obsidian's bidirectional linking syntax (`[[wiki link]]`)
+- It is recommended to open this repository in Obsidian for the full reading and editing experience
+- If you use other editors, the plain Markdown content remains readable, but some internal links may not resolve automatically
+
+### Recommended Workflow
+
+This project uses a **Obsidian + GitHub + TRAE Work** hybrid workflow:
+
+| Tool | Purpose |
+| :--- | :--- |
+| Obsidian | Local editing and maintenance |
+| GitHub | Version control and public hosting |
+| TRAE Work | AI-assisted creation and project sync |
+
+If you'd like to use AI-assisted creation, you can import this repository into TRAE Work — the AI can read all `.md` files and participate in worldbuilding.
+
+
 ## 🔒 Document Status
 
 | Directory/File | Status |
