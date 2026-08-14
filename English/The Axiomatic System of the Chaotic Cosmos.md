@@ -1,4 +1,4 @@
-# The Axiomatic System of the Chaotic Cosmos · English Edition
+# The Axiomatic System of the Chaotic Cosmos
 
 > Version: v3.0 · Complete Edition  
 > Status: Complete · Read-Only  
@@ -671,7 +671,7 @@ Slices are secondary entities created by Avatars based on their own emotions/fun
 Slices can be recursively created, but each layer decays to about $1/10$ of the previous layer's energy; usually after 3-5 layers, they cannot maintain independent consciousness.
 
 
-## Appendix A: Complete Avatar List
+## Appendix A: [[Chaotic Cosmos · Complete Avatar Master List|Complete Avatar List]]
 
 | Category | Number | Status |
 | :--- | :---: | :--- |
@@ -681,12 +681,13 @@ Slices can be recursively created, but each layer decays to about $1/10$ of the 
 | **Total** | **32** | All included |
 
 
-## Appendix B: Dimension Tree Visualization & Botaion Pole Architecture
-
-Refer to the independent document: *Chaotic Cosmos Axiomatic System · Appendices*
+## Appendix B: [[Botaion Pole]]
 
 
-## Appendix C: Unit Quick Reference
+# Appendix C: [[Chaotic Cosmos · Dimension Tree Visualization Document|Dimension Tree Visualization Document]]
+
+
+## Appendix D: Unit Quick Reference
 
 | Quantity | Unit | Symbol |
 | :--- | :--- | :--- |
