@@ -32,11 +32,11 @@ If you meet these, you're welcome to contribute.
 
 ## Process
 
-| Type | Process |
-| :--- | :--- |
-| Small changes (typos, translations) | Direct PR |
-| Big changes (new concepts, framework adjustments) | Open Issue first |
-| Not sure? | Open an Issue and ask |
+| Type                                              | Process               |
+| :------------------------------------------------ | :-------------------- |
+| Small changes (typos, translations)               | Direct PR             |
+| Big changes (new concepts, framework adjustments) | Open Issue first      |
+| Not sure?                                         | Open an Issue and ask |
 
 All PRs are reviewed by the author.
 
@@ -45,6 +45,16 @@ All PRs are reviewed by the author.
 
 By contributing, you agree that your contributions will be licensed under CC BY-NC-SA 4.0.
 
+
+## On Private Notes and Drafts
+
+This project uses Obsidian as the primary editing tool. If you keep personal notes or unfinished drafts in your local repository, it is recommended that you:
+
+- Place them in a `private/` or `drafts/` folder
+- These folders are already ignored in `.gitignore` and will not be pushed to the public repository
+- Avoid committing files containing personal information, local paths, or half-formed ideas directly to the root directory
+
+This protects your privacy while keeping the public repository clean and readable.
 
 ---
 
