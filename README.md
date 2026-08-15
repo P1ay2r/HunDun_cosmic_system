@@ -71,4 +71,17 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-Sha
 See [LICENSE](./LICENSE) for the full license text.
 
 
+## 🎨 Derivative Works Statement 
+This project welcomes non-commercial derivative works, including but not limited to:
+- Fan fiction and storytelling
+- TTRPG campaign modules
+- Illustrations, comics, animations, and other visual works
+- Worldbuilding expansions and extensions
+**The only requirement**: All derivative works must comply with the **CC BY-NC-SA 4.0** license:
+- Credit the original source and author (`P1ay2r / The Axiomatic System of the Chaotic Cosmos`)
+- Not for commercial use
+- Derivative works must be distributed under the same license
+No prior permission is required — just create. If you'd like your work to be featured or recommended in this project, feel free to reach out via Issues or Discussions.
+
+
 *The Axiomatic System of the Chaotic Cosmos · Continuously Evolving*
